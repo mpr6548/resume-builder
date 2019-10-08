@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mpr6548:Mr104202916@cluster0-a0izv.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "SVGaep2019levelUP"
+}
